@@ -19,7 +19,7 @@ This project expects the following input files in the same directory:
 
 > Note: Only the first 100 product instances are used for computational tractability.
 
-## ⚙️ Features
+## Features
 
 - Reads and parses shelf, bay, and product information.
 - MOGA Implementation: Uses the DEAP library to implement NSGA-II, a multi-objective genetic algorithm. It optimizes three objectives:
